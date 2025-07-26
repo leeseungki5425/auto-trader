@@ -1,0 +1,6 @@
+telegram_token = 'YOUR_TELEGRAM_TOKEN'
+telegram_chat_id = 'YOUR_CHAT_ID'
+api_key = 'YOUR_BITGET_API_KEY'
+api_secret = 'YOUR_BITGET_SECRET'
+passphrase = 'YOUR_BITGET_PASSPHRASE'
+mode = 'real'  # 'real' or 'paper'
